@@ -1,4 +1,4 @@
 # egitim
 
 
-KAL robotics için yapılmıştır 
+KAL robotics tarafından yapılmıştır 
