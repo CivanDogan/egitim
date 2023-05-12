@@ -1,4 +1,5 @@
 # egitim
 
 
-KAL robotics tarafından yapılmıştır 
+
+Civan ne derse o olur 
