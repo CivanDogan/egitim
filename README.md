@@ -1,4 +1,5 @@
 # egitim
 
 
-KAL robotics test yapılmıştır 
+
+Civan ne derse o olur 
